@@ -1,4 +1,4 @@
-# NEM iOS Wallet
+# Euskcoin iOS Wallet
 
 ### Release version
 
@@ -20,4 +20,4 @@ Run the following commands in your terminal to get started:
 
 # License
 
-NEM iOS Wallet is released under an MIT license. See the [LICENSE](./LICENSE) file for more information.
+Euskcoin iOS Wallet is released under an MIT license. See the [LICENSE](./LICENSE) file for more information.
